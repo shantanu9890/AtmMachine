@@ -1,7 +1,7 @@
 package com.shantanu;
 
 import java.util.Scanner;
-
+ 
 class atm {
     public int k=0;
     int[] money=new int[300];
